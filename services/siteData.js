@@ -27,7 +27,7 @@ const siteData =  {
   "title": "My New Blog",
   "description":"Description",
   "githubUsername":"trevors-test-account",
-  "baseUrl":"https://blog.trevorlane.dev",
+  "baseUrl":"https://trevors-blog.netlify.app",
   "showSocialShareLinks": true,
   'gistListId':'0b4696ebf0b59add79952c2b3fcec7d1',
   'useCTA': true,
